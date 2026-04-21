@@ -6,6 +6,17 @@
         <description>Automatic updates for Neubo</description>
         <language>en</language>
         <item>
+            <title>Neubo 1.0.0 (build 3)</title>
+            <pubDate>Tue, 21 Apr 2026 09:54:07 +0000</pubDate>
+            <enclosure
+                url="https://github.com/maheshremidio/neubo-release/releases/download/v1.0.0-3/Neubo-1.0.0-3.dmg"
+                sparkle:version="3"
+                sparkle:shortVersionString="1.0.0"
+                length="114828318"
+                type="application/x-apple-diskimage"
+                sparkle:edSignature="G3wWbZ7mS3x+osTxK/cIqZ+w1gasO30exqL0Bch7zOHKJfP2x8adovJzhD3eBUQlv+nTjG44Mt5O0BzYWwdlAQ==" length="114828318" />
+        </item>
+        <item>
             <title>Neubo 1.0.0 (build 2)</title>
             <pubDate>Tue, 21 Apr 2026 09:36:59 +0000</pubDate>
             <enclosure
