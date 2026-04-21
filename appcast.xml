@@ -6,6 +6,17 @@
         <description>Automatic updates for Neubo</description>
         <language>en</language>
         <item>
+            <title>Neubo 1.0.0 (build 2)</title>
+            <pubDate>Tue, 21 Apr 2026 09:36:59 +0000</pubDate>
+            <enclosure
+                url="https://github.com/maheshremidio/neubo-release/releases/download/v1.0.0-2/Neubo-1.0.0-2.zip"
+                sparkle:version="2"
+                sparkle:shortVersionString="1.0.0"
+                length="112566195"
+                type="application/octet-stream"
+                sparkle:edSignature="AlZXzBmYf+t78hz9QI1zQYGzzsxK6hSvJSDQtZx/8NuVGDvXJ6x39te4PJxYbhH3sZ+aZh+U+h6H7jb9CzkcAg==" length="112566195" />
+        </item>
+        <item>
             <title>Neubo 1.0.0 (build 1)</title>
             <pubDate>Tue, 21 Apr 2026 09:03:55 +0000</pubDate>
             <enclosure
