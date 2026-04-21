@@ -12,7 +12,6 @@
                 url="https://github.com/maheshremidio/neubo-release/releases/download/v1.0.0-4/Neubo-1.0.0-4.dmg"
                 sparkle:version="4"
                 sparkle:shortVersionString="1.0.0"
-                length="115803568"
                 type="application/x-apple-diskimage"
                 sparkle:edSignature="h4dQ4tUxdG9A3S+lqBROGRaRs9qlwh7jfRs+eMhqeb0NDp8XYIGHDSQtG6GP2ev6hNyEvkULkBXWAslQbYehDg==" length="115803568" />
         </item>
@@ -23,7 +22,6 @@
                 url="https://github.com/maheshremidio/neubo-release/releases/download/v1.0.0-3/Neubo-1.0.0-3.dmg"
                 sparkle:version="3"
                 sparkle:shortVersionString="1.0.0"
-                length="114828318"
                 type="application/x-apple-diskimage"
                 sparkle:edSignature="G3wWbZ7mS3x+osTxK/cIqZ+w1gasO30exqL0Bch7zOHKJfP2x8adovJzhD3eBUQlv+nTjG44Mt5O0BzYWwdlAQ==" length="114828318" />
         </item>
@@ -34,7 +32,6 @@
                 url="https://github.com/maheshremidio/neubo-release/releases/download/v1.0.0-2/Neubo-1.0.0-2.zip"
                 sparkle:version="2"
                 sparkle:shortVersionString="1.0.0"
-                length="112566195"
                 type="application/octet-stream"
                 sparkle:edSignature="AlZXzBmYf+t78hz9QI1zQYGzzsxK6hSvJSDQtZx/8NuVGDvXJ6x39te4PJxYbhH3sZ+aZh+U+h6H7jb9CzkcAg==" length="112566195" />
         </item>
@@ -45,7 +42,6 @@
                 url="https://github.com/maheshremidio/neubo-release/releases/download/v1.0.0-1/Neubo-1.0.0-1.zip"
                 sparkle:version="1"
                 sparkle:shortVersionString="1.0.0"
-                length="112565500"
                 type="application/octet-stream"
                 sparkle:edSignature="3HITUuJe1FtLaUNW0p0WoWtARt1QzPst3s9u+NVWOT5ZyljIZHMHI+5ZlljawH8sD0xzPz49nSkwJVxd5CAIAg==" length="112565500" />
         </item>
