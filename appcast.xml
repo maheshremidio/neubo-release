@@ -5,6 +5,17 @@
         <link>https://raw.githubusercontent.com/maheshremidio/neubo-release/main/appcast.xml</link>
         <description>Automatic updates for Neubo</description>
         <language>en</language>
+        <item>
+            <title>Neubo 1.0.0 (build 1)</title>
+            <pubDate>Tue, 21 Apr 2026 09:03:55 +0000</pubDate>
+            <enclosure
+                url="https://github.com/maheshremidio/neubo-release/releases/download/v1.0.0-1/Neubo-1.0.0-1.zip"
+                sparkle:version="1"
+                sparkle:shortVersionString="1.0.0"
+                length="112565500"
+                type="application/octet-stream"
+                sparkle:edSignature="3HITUuJe1FtLaUNW0p0WoWtARt1QzPst3s9u+NVWOT5ZyljIZHMHI+5ZlljawH8sD0xzPz49nSkwJVxd5CAIAg==" length="112565500" />
+        </item>
 
         <!-- Paste release-script output as new <item> entries, newest first -->
 
